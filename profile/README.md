@@ -11,4 +11,4 @@ We welcome contributions from the community! Whether it's bug fixes, feature sug
 ## 🔗 Stay Connected  
 - [G Labs](https://github.com/gianglabs)  
 
-Join us on this journey to revolutionize data analysis in proteomics and beyond!
+Join us on this journey to revolutionize data analysis in mutiomics and beyond!
