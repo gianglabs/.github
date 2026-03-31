@@ -1,2 +1,2 @@
 # .github
-The overview of the Giang LabsLabs
+The overview of the Giang Labs
