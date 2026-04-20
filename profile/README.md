@@ -14,8 +14,16 @@ Contact for work: nttg8100@gmail.com
 - https://github.com/gianglabs/nf-short-read-methylation: Short-read methylation calling
 
 ## Softwares
-- https://github.com/gianglabs/smartsensor: The sensor utilizes a smartphone camera to analyze and characterize chemical compounds.
 - https://github.com/gianglabs/river (private): Data platform for bioinformatics analysis
+- https://github.com/gianglabs/smartsensor: The sensor utilizes a smartphone camera to analyze and characterize chemical compounds.
+- https://github.com/gianglabs/gkit: Genomics Kit integrates the utilities for bioinformatics setup and analysis (Spark, Spark on SLURM, HAIL, DPGT, GLnexus, IGV-report, etc)
+
+## Infrastructure
+- https://github.com/gianglabs/river-slurm: The ansible for SLURM HPC configuration
+
+## Blogs
+Sharing the experiences with community via high-quality content blogs: 
+https://gianglabs.github.io/glabs-docs-blogs/blog
 
 ## 🤝 Contributions  
 
